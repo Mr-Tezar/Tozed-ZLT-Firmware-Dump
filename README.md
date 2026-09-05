@@ -9,7 +9,7 @@
   -	pro 8.5.4.3-openssh   —> Unlock ——> ssh ——> port: 22 ——> User: root —> Password: admin --> key:rsa-ssh
 
 -----
-2. RG500L-EU AP
+3. RG500L-EU AP
   - pro 8.6.28.2 —> lock --> Don't use this only for Research 
 
 
