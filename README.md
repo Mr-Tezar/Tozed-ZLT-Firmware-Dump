@@ -1,8 +1,11 @@
 # Tozed-ZLT-Firmware-Dump
 
 ## versions :
-1.	RG500L-EU AC
+1.	RG500L-EU AP
   - normal 1.5.13-openssh —> Unlock ——> ssh ——> port: 22 ——> User: root —> Password: admin --> key:rsa-ssh
+
+----
+2. RG500L-EU AC
   -	pro 8.5.4.3-openssh   —> Unlock ——> ssh ——> port: 22 ——> User: root —> Password: admin --> key:rsa-ssh
 
 -----
