@@ -7,6 +7,7 @@
 ----
 2. RG500L-EU AC
   -	pro 8.5.4.3-openssh   —> Unlock ——> ssh ——> port: 22 ——> User: root —> Password: admin --> key:rsa-ssh
+  -	vpro 8.5.5.1-openssh   —> Unlock ——> ssh ——> port: 22 ——> User: root —> Password: admin --> key:rsa-ssh
 
 -----
 3. RG500L-EU AP
